@@ -11,7 +11,6 @@
 		OBJ_45 /* Bash.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_9 /* Bash.swift */; };
 		OBJ_46 /* Command.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_10 /* Command.swift */; };
 		OBJ_47 /* Context.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_11 /* Context.swift */; };
-		OBJ_48 /* FileHandle.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_12 /* FileHandle.swift */; };
 		OBJ_49 /* Files.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_13 /* Files.swift */; };
 		OBJ_50 /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_14 /* String.swift */; };
 		OBJ_51 /* Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_16 /* Array.swift */; };
@@ -57,7 +56,6 @@
 		BA930AEA2077EC5C003E5703 /* Process.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Process.swift; sourceTree = "<group>"; };
 		OBJ_10 /* Command.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = Command.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		OBJ_11 /* Context.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = Context.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		OBJ_12 /* FileHandle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = FileHandle.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		OBJ_13 /* Files.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = Files.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		OBJ_14 /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = String.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		OBJ_16 /* Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = Array.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -210,7 +208,6 @@
 				OBJ_9 /* Bash.swift */,
 				OBJ_10 /* Command.swift */,
 				OBJ_11 /* Context.swift */,
-				OBJ_12 /* FileHandle.swift */,
 				BA930AEA2077EC5C003E5703 /* Process.swift */,
 				OBJ_13 /* Files.swift */,
 				OBJ_14 /* String.swift */,
@@ -343,7 +340,6 @@
 				BA930AEB2077EC5C003E5703 /* Process.swift in Sources */,
 				OBJ_46 /* Command.swift in Sources */,
 				OBJ_47 /* Context.swift in Sources */,
-				OBJ_48 /* FileHandle.swift in Sources */,
 				OBJ_49 /* Files.swift in Sources */,
 				OBJ_50 /* String.swift in Sources */,
 				OBJ_51 /* Array.swift in Sources */,
